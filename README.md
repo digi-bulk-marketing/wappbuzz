@@ -1,9 +1,14 @@
 # Wappbuzz
 
-- Rebranding ID: 6447b114e55fa38f5cd2fbd6
-- User ID: 644263243ed39d1cb57d273d
-- App name: Wappbuzz
-- Product name: Button Sender
+Wappbuzz by Wappbuzz.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/wappbuzz/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/wappbuzz/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/wappbuzz/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Wappbuzz** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/wappbuzz/releases/latest) and reinstall.
